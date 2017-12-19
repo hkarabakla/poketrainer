@@ -1,4 +1,4 @@
-# PokeLeague
+# PokeTrainer
 
 This tiny role playing game (RPG) project demonstrates a text based version of a very popular cartoon series, POKEMON.
 This project is created to practice coding with Java and implement some best practices. So it is just for fun.

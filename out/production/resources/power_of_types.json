@@ -1,0 +1,152 @@
+[
+  {
+    "defensive": "NORMAL",
+    "offensive": "NORMAL",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "NORMAL",
+    "offensive": "FIRE",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "NORMAL",
+    "offensive": "ELECTRIC",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "NORMAL",
+    "offensive": "WATER",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "NORMAL",
+    "offensive": "GRASS",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "FIRE",
+    "offensive": "FIRE",
+    "advantage": 0.5,
+    "disadvantage": 0.5
+  },
+  {
+    "defensive": "FIRE",
+    "offensive": "NORMAL",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "FIRE",
+    "offensive": "ELECTRIC",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "FIRE",
+    "offensive": "WATER",
+    "advantage": 0.5,
+    "disadvantage": 2
+  },
+  {
+    "defensive": "FIRE",
+    "offensive": "GRASS",
+    "advantage": 2,
+    "disadvantage": 0.5
+  },
+  {
+    "defensive": "ELECTRIC",
+    "offensive": "ELECTRIC",
+    "advantage": 0.5,
+    "disadvantage": 0.5
+  },
+  {
+    "defensive": "ELECTRIC",
+    "offensive": "NORMAL",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "ELECTRIC",
+    "offensive": "FIRE",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "ELECTRIC",
+    "offensive": "WATER",
+    "advantage": 2,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "ELECTRIC",
+    "offensive": "GRASS",
+    "advantage": 0.5,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "WATER",
+    "offensive": "WATER",
+    "advantage": 0.5,
+    "disadvantage": 0.5
+  },
+  {
+    "defensive": "WATER",
+    "offensive": "NORMAL",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "WATER",
+    "offensive": "FIRE",
+    "advantage": 2,
+    "disadvantage": 0.5
+  },
+  {
+    "defensive": "WATER",
+    "offensive": "ELECTRIC",
+    "advantage": 1,
+    "disadvantage": 2
+  },
+  {
+    "defensive": "WATER",
+    "offensive": "GRASS",
+    "advantage": 0.5,
+    "disadvantage": 2
+  },
+  {
+    "defensive": "GRASS",
+    "offensive": "GRASS",
+    "advantage": 0.5,
+    "disadvantage": 0.5
+  },
+  {
+    "defensive": "GRASS",
+    "offensive": "NORMAL",
+    "advantage": 1,
+    "disadvantage": 1
+  },
+  {
+    "defensive": "GRASS",
+    "offensive": "FIRE",
+    "advantage": 0.5,
+    "disadvantage": 2
+  },
+  {
+    "defensive": "GRASS",
+    "offensive": "ELECTRIC",
+    "advantage": 1,
+    "disadvantage": 0.5
+  },
+  {
+    "defensive": "GRASS",
+    "offensive": "WATER",
+    "advantage": 2,
+    "disadvantage": 0.5
+  }
+]
